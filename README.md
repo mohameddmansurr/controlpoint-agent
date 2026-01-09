@@ -55,7 +55,7 @@ A **real-time Streamlit dashboard** displays CVE details, vendor info, and a **C
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/mohameddmansurr/controlpoint-agent.git](https://github.com/mohameddmansurr/controlpoint-agent.git)
+git clone [https://github.com/mohameddmansurr/controlpoint-agent.git]
 cd controlpoint-agent
 
 ```
