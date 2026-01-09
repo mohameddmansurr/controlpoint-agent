@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import json
 import os
-import agent  # Import the agent logic
+import agent
 
 # Configuration
 DATA_FILE = "cve_data.json"
