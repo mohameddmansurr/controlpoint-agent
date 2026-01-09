@@ -102,15 +102,3 @@ From the Streamlit sidebar, click: 👉 **"Run Agent Scan Now"** to trigger a fr
 * `dashboard.py`: Streamlit UI for real-time visualization and analyst prioritization.
 * `output_sample.json`: Sample output demonstrating detection of a **critical Siemens PLC vulnerability**.
 * `requirements.txt`: Python dependencies.
-
-## Key Design Principles
-
-✅ **OT-First Threat Intelligence**
-✅ **Cost-Aware AI Usage**
-✅ **Graceful Degradation (No Downtime)**
-✅ **Explainable Confidence Scoring**
-✅ **Production-oriented Architecture**
-
-```
-
-```
